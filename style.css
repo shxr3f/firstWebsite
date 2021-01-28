@@ -1,0 +1,136 @@
+body{
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #fbf6f0;
+    line-height: 2;
+}
+h1 {
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0;
+    font-size: 5.625rem;
+    color:  #ffda77;
+}
+h2 {
+    margin: 0 auto 0 auto;
+    font-family: 'Patrick Hand', cursive;
+    color: #ffda77;
+    font-size: 2.5rem;
+    font-weight: normal;
+
+}
+h3 {
+    margin: 0 auto 0 auto;
+    color: #ffda77;
+    font-size: 1.5rem;
+    font-weight: normal;
+    font-family: 'Patrick Hand', cursive;
+}
+
+p {
+    margin: 0 auto 0 auto;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+}
+
+hr {
+    border-style: dotted;
+    border-bottom: 0;
+    border-spacing: 2px;
+    border-width: 5px;
+    border-color: thistle;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.top{
+    background-color: #ffa45b;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 0 auto 0 auto;
+    }
+
+.middle-container{
+    margin: 0 auto;
+    width: 50%;
+    margin: auto;
+    }
+
+.profile{
+    margin: 0 auto;
+}
+
+.skills{
+    margin: 0 auto;
+}
+
+.skill-row1{
+    margin: 10px auto 10px auto;
+    text-align: left;
+    ;
+}
+
+.code{
+    width: 150px;
+    float: left;
+    padding-right: 20px;
+}
+
+.skill-row2{
+    margin: 20px auto 10px auto;
+    text-align: right;
+}
+
+.poop{
+    width: 150px;
+    float: right;
+    padding-left: 20px;
+}
+
+.contact-me{
+    margin: 0 auto 0 auto;
+    padding-bottom: 100px;
+}
+
+.btn {
+    background: #aee6e6;
+    background-image: -webkit-linear-gradient(top, #aee6e6, #aee6e6);
+    background-image: -moz-linear-gradient(top, #aee6e6, #aee6e6);
+    background-image: -ms-linear-gradient(top, #aee6e6, #aee6e6);
+    background-image: -o-linear-gradient(top, #aee6e6, #aee6e6);
+    background-image: linear-gradient(to bottom, #aee6e6, #aee6e6);
+    -webkit-border-radius: 48;
+    -moz-border-radius: 48;
+    border-radius: 48px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 10px 14px 10px 14px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #0ead92;
+    text-decoration: none;
+  }
+
+.bottom-container{
+    background-color: teal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+.footer-link{
+    text-decoration: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: 'Patrick Hand', cursive;
+    color: #a3d2ca;
+}
+.footer-link:hover{
+    color: #5eaaa8;
+}
+.copyright{
+    font-size: 10px;
+    color: #f8f1f1;
+}
